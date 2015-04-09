@@ -1,7 +1,7 @@
 # owncloud-screenshots-python
 Limited to **Mac OS X** at the moment.
 
-Auto-uploads screenshots to your OwnCloud host and copies the link to your clipboard. Written using Python.
+Auto-uploads screenshots to your OwnCloud host and copies the link to your clipboard. Written in Python.
 
 ## Dependencies
 No install script yet, so you need to manually install the required packages on your system.
